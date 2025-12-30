@@ -1,2 +1,15 @@
-# Loan-Risk-Assessment
-Loan-risk-assessment is the process lenders use to evaluate a borrower's creditworthiness and probability of defaulting on a loan. Lenders analyze factors like credit history, income, existing debt, assets (the "5 Cs of Credit"), and economic conditions to determine loan eligibility, amount, and interest rates. 
+# Loan Repayment Risk Assessment System
+
+This project evaluates a borrower's loan repayment risk using
+income, credit score, and liabilities.
+
+## Features
+- Risk classification (Low / Medium / High)
+- Rule-based decision making
+- Simple C implementation
+
+## Tech Stack
+- C Programming
+
+## Author
+Raghav Choudhary
